@@ -1,0 +1,10 @@
+D:\SVN\BJC\FE\FE730\obj\Debug\FE730.vbproj.AssemblyReference.cache
+D:\SVN\BJC\FE\FE730\obj\Debug\System9.Resources.resources
+D:\SVN\BJC\FE\FE730\obj\Debug\System9.FE730.resources
+D:\SVN\BJC\FE\FE730\obj\Debug\FE730.vbproj.GenerateResource.cache
+D:\SVN\BJC\FE\FE730\obj\Debug\FE730.vbproj.CoreCompileInputs.cache
+D:\inetpub\wwwroot\BJC_DEV\FE730.dll
+D:\inetpub\wwwroot\BJC_DEV\FE730.pdb
+D:\SVN\BJC\FE\FE730\obj\Debug\FE730.vbproj.CopyComplete
+D:\SVN\BJC\FE\FE730\obj\Debug\FE730.dll
+D:\SVN\BJC\FE\FE730\obj\Debug\FE730.pdb

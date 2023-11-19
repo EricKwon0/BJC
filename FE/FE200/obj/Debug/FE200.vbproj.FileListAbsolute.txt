@@ -1,0 +1,10 @@
+D:\EMAX\FE\FE200\obj\Debug\FE200.vbproj.AssemblyReference.cache
+D:\EMAX\FE\FE200\obj\Debug\System9.Resources.resources
+D:\EMAX\FE\FE200\obj\Debug\System9.FE200.resources
+D:\EMAX\FE\FE200\obj\Debug\FE200.vbproj.GenerateResource.cache
+D:\EMAX\FE\FE200\obj\Debug\FE200.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\System9\FE200.dll
+C:\inetpub\wwwroot\System9\FE200.pdb
+D:\EMAX\FE\FE200\obj\Debug\FE200.vbproj.CopyComplete
+D:\EMAX\FE\FE200\obj\Debug\FE200.dll
+D:\EMAX\FE\FE200\obj\Debug\FE200.pdb

@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\BJC_DEV\FE150P.dll
+C:\inetpub\wwwroot\BJC_DEV\FE150P.pdb
+C:\.net Source\BJC_ERP\FE\FE150P\obj\Debug\System9.Resources.resources
+C:\.net Source\BJC_ERP\FE\FE150P\obj\Debug\System9.FE150P.resources
+C:\.net Source\BJC_ERP\FE\FE150P\obj\Debug\FE150P.vbproj.GenerateResource.cache
+C:\.net Source\BJC_ERP\FE\FE150P\obj\Debug\FE150P.vbproj.CoreCompileInputs.cache
+C:\.net Source\BJC_ERP\FE\FE150P\obj\Debug\FE150P.vbproj.CopyComplete
+C:\.net Source\BJC_ERP\FE\FE150P\obj\Debug\FE150P.dll
+C:\.net Source\BJC_ERP\FE\FE150P\obj\Debug\FE150P.pdb
